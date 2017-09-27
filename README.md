@@ -7,7 +7,7 @@ A very generic [.editorconfig](https://github.com/RehanSaeed/EditorConfig/blob/m
 - C# - .cs, .csx, .cake
 - Visual Basic - .vb
 - Script - .sh, .ps1, psm1
-- Configuration - .json, .xml, .yml, .config, .props, .targets, .nuspec, .resx, .ruleset
+- Configuration - .json, .xml, .yml, .config, .props, .targets, .nuspec, .resx, .ruleset, .vsixmanifest, .vsct
 - HTML - .htm, .html
 - JavaScript - .js, .ts
 - CSS - .css, .scss, .less
